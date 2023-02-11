@@ -1,0 +1,11 @@
+.header {
+    padding: 5px;
+    background-color: var(--header-backgraund);
+}
+
+.header__name {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
