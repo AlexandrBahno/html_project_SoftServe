@@ -8,6 +8,7 @@
 }
 .block__text-news {
     text-decoration: none;
+    width: 160px;
 }
 
 .text__fact {
