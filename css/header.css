@@ -47,6 +47,8 @@
     .header__logo {
         display: flex;
         width: 60px;
+        align-items: center;
+        align-content: center;
     }
     .header__name {
         flex-direction: row;
