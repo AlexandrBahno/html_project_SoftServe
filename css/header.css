@@ -4,7 +4,7 @@
 }
 
 .header__name {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
@@ -35,5 +35,8 @@
         flex-direction: row;
         flex: 1;
         justify-content: space-around;
+    }
+    .header__logo {
+        display: flex;
     }
 }
