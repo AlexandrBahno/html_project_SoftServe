@@ -6,3 +6,18 @@
     align-content: center;
     justify-content: space-around;
 }
+.block__text-news {
+    text-decoration: none;
+}
+
+.text__fact {
+    text-decoration: none;
+}
+
+@media (min-width: 500px) {
+    .header__menu {
+        flex-direction: row;
+        flex: 1;
+        justify-content: space-around;
+    }
+}
