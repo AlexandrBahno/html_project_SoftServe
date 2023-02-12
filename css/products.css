@@ -1,3 +1,8 @@
 .block__text-menu {
     display: flex;
+    text-decoration: none;
+    color: var(--text-color);
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
 }
