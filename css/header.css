@@ -15,7 +15,7 @@
     flex-direction: column;
 }
 
-.header__name-item {
+.header__menu-item {
     text-decoration: none;
     color: var(--text-color);
 }
