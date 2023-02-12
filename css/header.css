@@ -10,7 +10,7 @@
     text-transform: uppercase;
 }
 
-head__menu {
+.head__menu {
     display: flex;
     flex-direction: column;
 }
