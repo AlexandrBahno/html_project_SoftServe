@@ -3,15 +3,15 @@
 }
 
 .block__text-page-one {
-    background-color: #794f45;
+    background-color: #e3d0cb;
 }
 
 .block__text-page-two {
-    background-color: #77608d;
+    background-color: #cfc3db;
 }
 
 .block__text-page-three {
-    background-color: #7a956b;
+    background-color: #bed1b5;
 }
 
 .block_container {
@@ -25,13 +25,13 @@
 }
 .block__title {
     font-size: 30px;
-    line-height: 130%;
+    line-height: 100%;
     margin: 0px 0px 20px 0px;
 }
 
 .block__text {
     font-size: 16px;
-    line-height: 150%;
+    line-height: 100%;
 }
 
 @media (max-width: 1200px) {
