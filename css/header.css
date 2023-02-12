@@ -9,3 +9,31 @@
     text-align: center;
     text-transform: uppercase;
 }
+
+head__menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.header__name-item {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+@media (min-width: 500px) {
+    .header__name {
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 500px) {
+    .header__nav {
+        display: flex;
+        align-items: center;
+    }
+    .header__menu {
+        flex-direction: row;
+        flex: 1;
+        justify-content: space-around;
+    }
+}
