@@ -53,4 +53,8 @@
     .header__name {
         flex-direction: row;
     }
+    .header__nav {
+        display: flex;
+        align-items: center;
+    }
 }
