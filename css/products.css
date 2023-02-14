@@ -43,3 +43,15 @@
         margin-bottom: calc(20px + (50 - 20) * ((100vw - 320px) / (1200 - 320)));
     }
 }
+
+.features__carousel-block {
+    display: flex;
+    flex-direction: row;
+}
+
+.features__carousel-information {
+    background-image: url(../img/background_carousel.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
