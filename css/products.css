@@ -51,7 +51,6 @@
 
 .features__carousel-information {
     background-image: url(../img/background_carousel.svg);
-    background-repeat: no-repeat;
-    background-position: center center;
     background-size: cover;
+    margin: auto;
 }
